@@ -1,4 +1,6 @@
-## Hi there 👋
+
+
+![IMG_2699](https://github.com/user-attachments/assets/e101ee91-7a81-4f6c-bae3-9f7402ac76cc)
 
 <!--
 **Shiiroii/Shiiroii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
